@@ -14,7 +14,7 @@ looks more like a standard c program.  The files we provided are:
 * [my_bst_util.h](../my_bst_util.h) - This is the header file for your bst utility functions.  It contains the function prototypes for the functions you will implement related to **utility** functions for the bst, such as `sum`, `min`, and `max`.
 * [my_bst_util.c](../my_bst_util.c) - This is the implementation file for your bst utility functions.  It contains the function definitions for the functions you will implement related to **utility** functions for the bst, such as sum, min, and max.
 * [bst_main.c](../bst_main.c) - This is the main file for your bst.  It contains the main function, and the code to test your bst.  You should add your tests to this file, and run it to test your bst.
-* [Makefile](../Makefile) - This is the makefile for your program. You should not need to modify this file, but you should look at it to see how it compiles all the files. As a reminder from the lab, to build your program, use "make" in the directory with the Makefile.  To clean up your directory, use "make clean".
+* [Makefile](../Makefile) - This is the makefile for your program. You should not need to modify this file, but you should look at it to see how it compiles all the files. As a reminder from the team activity, to build your program, use "make" in the directory with the Makefile.  To clean up your directory, use "make clean".
 
 
 👉🏽 **Task** 👈🏽 Take time to go through the files. They should compile without  modification at this point. You will want to take this project in steps, so as you look through the files, make sure to plan out your approach to building the BST. 
