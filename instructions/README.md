@@ -119,6 +119,8 @@ We will use the following grading rubric to grade your assignment.
 4. Exceeds  (MG)  
    * Reviews code for comments, style, and properly completed functions (including free)
    * Uses recursive add, find, and free
+   * Includes tests for functions, making sure to check edge cases. Does not have to test prints, but should have example runs 
+     with 'expected' values for printing to the screen.
    * All questions in README.md answered correctly
 
 
